@@ -1,8 +1,8 @@
 # List-of-Github-Projects
-Catalog of my latest github projects for easy reference.
-
-Academic Projects:
-•	A small shooting game, made using C# and Monogame framework: Burger Rampage                                                        (May 2017) <br />  
+Catalog of my latest github projects for easy reference. <br />
+<br />
+Academic Projects: <br />
+•	A small shooting game, made using C# and Monogame framework: [Burger Rampage](https://github.com/nishantb15/Burger-Rampage)        (May 2017) <br />  
 •	A 2-D blackjack game that I made using C# and Monogame Framework: Blackjack Game                                                   (Dec 2017) <br />
 •	YouTube video for demonstration of game above: Blackjack Demo 		                                                                 (Dec 2017) <br />
 •	A 3-D tank-based shooting game made using C# and Unity Game Engine: Tank Shootout                                                  (Jan 2018) <br /> 
